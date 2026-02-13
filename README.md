@@ -45,7 +45,7 @@ Coming soon. Building in the shadows. 🌑
 
 ## 📊 GitHub Activity
 
-[![GitHub Contribution Graph](https://ghchart.rshah.org/shinki)](https://github.com/shinki)
+[![GitHub Contribution Graph](https://ghchart.rshah.org/shinki-x)](https://github.com/shinki-x)
 
 ## 🔥 Philosophy
 
