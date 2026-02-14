@@ -20,22 +20,18 @@
 - 🏗️ Building tools and systems that didn't exist yesterday
 - 🇯🇵 Based in Japan, building for the world
 
+## 🚀 Current Projects
+
+*Coming soon — building in stealth mode.* 🌑
+
+<!-- Add projects here as you build them:
+- ⚡ **[Project Name](https://github.com/shinki-x/repo)** - Short description
+- 🔬 **[Project Name](https://github.com/shinki-x/repo)** - Short description
+-->
+
 ## 🔬 Interests
 
-- **AI/ML** — LLMs, agentic workflows, neural architectures
-- **Physics** — the universe's source code
-- **Computer Science** — algorithms, systems, the craft of building
-- **Vibe Coding** — shipping at the speed of thought with AI copilots
-
-## 🛠️ Tech Stack
-
-```
-Languages:    Python
-ML/AI:        PyTorch, Transformers, LangChain
-Backend:      FastAPI, PostgreSQL
-Infra:        Linux, Docker, Git
-AI Tools:     Claude, Cursor, GitHub Copilot
-```
+`AI` `Robotics` `Space` `Physics` `Sci-Fi`
 
 <!-- ## 🚀 Projects
 
